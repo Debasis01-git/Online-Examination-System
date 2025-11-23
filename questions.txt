@@ -1,0 +1,462 @@
+Q What is the national flower of India?
+A Sunflower
+B Lotus
+C Rose
+D Jasmine
+ANS B
+
+Q Which shape has 3 sides?
+A Square
+B Rectangle
+C Triangle
+D Circle
+ANS C
+
+Q Which planet is closest to the Sun?
+A Earth
+B Mars
+C Venus
+D Mercury
+ANS D
+
+Q What gas do humans breathe in?
+A Carbon dioxide
+B Nitrogen
+C Oxygen
+D Hydrogen
+ANS C
+
+Q How many days are there in a leap year?
+A 364
+B 365
+C 366
+D 367
+ANS C
+
+Q Which device is used to print documents?
+A Monitor
+B Speaker
+C Printer
+D Keyboard
+ANS C
+
+Q Which is the smallest unit of data?
+A Bit
+B Byte
+C Kilobyte
+D Megabyte
+ANS A
+
+Q What is 9 + 6?
+A 12
+B 14
+C 15
+D 16
+ANS C
+
+Q Which organ pumps blood in the human body?
+A Brain
+B Heart
+C Lungs
+D Kidneys
+ANS B
+
+Q Which planet is known as the Blue Planet?
+A Mars
+B Earth
+C Jupiter
+D Venus
+ANS B
+
+Q Which festival is known as the festival of lights?
+A Holi
+B Diwali
+C Eid
+D Christmas
+ANS B
+
+Q Which metal is used in electric wires?
+A Gold
+B Silver
+C Copper
+D Iron
+ANS C
+
+Q Who invented the telephone?
+A Edison
+B Graham Bell
+C Newton
+D Tesla
+ANS B
+
+Q Which is the largest mammal?
+A Elephant
+B Whale Shark
+C Blue Whale
+D Hippopotamus
+ANS C
+
+Q What color is the sky on a clear day?
+A Red
+B Blue
+C Green
+D Yellow
+ANS B
+
+Q Which is used to click/select items on a computer?
+A Keyboard
+B Monitor
+C Mouse
+D Speaker
+ANS C
+
+Q Which country is the Taj Mahal in?
+A USA
+B India
+C China
+D Japan
+ANS B
+
+Q Which number comes after 99?
+A 90
+B 98
+C 100
+D 101
+ANS C
+
+Q Which is the largest continent in the world?
+A Africa
+B Asia
+C Europe
+D Australia
+ANS B
+
+Q Which is the longest river in the world?
+A Amazon River
+B Nile River
+C Yangtze River
+D Mississippi River
+ANS B
+
+Q Who was the first woman Prime Minister of India?
+A Indira Gandhi
+B Sarojini Naidu
+C Sonia Gandhi
+D Pratibha Patil
+ANS A
+
+Q Which country is known as the Land of the Rising Sun?
+A China
+B Japan
+C South Korea
+D Thailand
+ANS B
+
+Q Which is the smallest ocean in the world?
+A Indian Ocean
+B Pacific Ocean
+C Atlantic Ocean
+D Arctic Ocean
+ANS D
+
+Q Who discovered electricity?
+A Isaac Newton
+B Benjamin Franklin
+C Albert Einstein
+D Thomas Edison
+ANS B
+
+Q Which organ purifies our blood?
+A Heart
+B Lungs
+C Liver
+D Kidneys
+ANS D
+
+Q Who wrote the Ramayana?
+A Tulsidas
+B Kalidasa
+C Valmiki
+D Ved Vyasa
+ANS C
+
+Q What is the national currency of Japan?
+A Yen
+B Won
+C Yuan
+D Dollar
+ANS A
+
+Q Which gas is most abundant in Earth's atmosphere?
+A Oxygen
+B Nitrogen
+C Carbon dioxide
+D Hydrogen
+ANS B
+
+Q Who invented the light bulb?
+A Edison
+B Newton
+C Tesla
+D Einstein
+ANS A
+
+Q Which planet is closest to the Sun?
+A Earth
+B Mercury
+C Mars
+D Venus
+ANS B
+
+Q Which country has the largest population?
+A USA
+B China
+C India
+D Russia
+ANS C
+
+Q Which is the largest desert in the world?
+A Gobi Desert
+B Kalahari Desert
+C Sahara Desert
+D Thar Desert
+ANS C
+
+Q Who wrote the national song “Vande Mataram”?
+A Bankim Chandra Chatterjee
+B Tagore
+C Subhash Chandra Bose
+D Gandhi
+ANS A
+
+Q Which animal is known as the Ship of the Desert?
+A Cow
+B Horse
+C Camel
+D Elephant
+ANS C
+
+Q What is the national flower of India?
+A Rose
+B Lotus
+C Jasmine
+D Sunflower
+ANS B
+
+Q Which vitamin is known as the sunshine vitamin?
+A Vitamin A
+B Vitamin C
+C Vitamin D
+D Vitamin E
+ANS C
+
+Q Which is the hardest natural substance?
+A Diamond
+B Iron
+C Gold
+D Silver
+ANS A
+
+Q Who is known as the Father of the Nation (India)?
+A Tagore
+B Nehru
+C Mahatma Gandhi
+D Ambedkar
+ANS C
+
+Q Which is the largest island in the world?
+A Sri Lanka
+B Madagascar
+C Greenland
+D Borneo
+ANS C
+
+Q Who was the first man to walk on the Moon?
+A Neil Armstrong
+B Buzz Aldrin
+C Yuri Gagarin
+D Michael Collins
+ANS A
+
+Q Which festival is known as the Festival of Lights?
+A Holi
+B Diwali
+C Eid
+D Christmas
+ANS B
+
+Q What does WWW stand for?
+A World Web Wide
+B Web World Wide
+C World Wide Web
+D Web Wide World
+ANS C
+
+Q Which metal is liquid at room temperature?
+A Iron
+B Copper
+C Mercury
+D Silver
+ANS C
+
+Q What is the largest organ of the human body?
+A Heart
+B Liver
+C Skin
+D Brain
+ANS C
+
+Q Which country gifted the Statue of Liberty to the USA?
+A Germany
+B France
+C England
+D Spain
+ANS B
+
+Q What is the currency of the United Kingdom?
+A Dollar
+B Euro
+C Pound
+D Franc
+ANS C
+
+Q Which famous scientist gave the Theory of Relativity?
+A Newton
+B Einstein
+C Tesla
+D Galileo
+ANS B
+
+Q Which Indian city is known as the Pink City?
+A Mumbai
+B Jaipur
+C Delhi
+D Hyderabad
+ANS B
+
+Q What is the main gas present in the Sun?
+A Hydrogen
+B Nitrogen
+C Oxygen
+D Helium
+ANS A
+
+Q What is the largest mammal in the world?
+A Elephant
+B Whale Shark
+C Blue Whale
+D Giraffe
+ANS C
+
+Q Who discovered Penicillin?
+A Alexander Fleming
+B Marie Curie
+C Pasteur
+D Newton
+ANS A
+
+Q What is the national sport of India?
+A Cricket
+B Hockey
+C Football
+D Kabaddi
+ANS B
+
+Q Which state is also known as the “Land of Five Rivers”?
+A Gujarat
+B Punjab
+C Assam
+D Bihar
+ANS B
+
+Q Which two colours are on the Indian flag along with green?
+A Red and Blue
+B Orange and White
+C Blue and White
+D Yellow and Red
+ANS B
+
+Q Who founded the Maurya Empire?
+A Ashoka
+B Bindusara
+C Chandragupta Maurya
+D Harsha
+ANS C
+
+Q Which gas do plants absorb from the air?
+A Nitrogen
+B Carbon dioxide
+C Hydrogen
+D Oxygen
+ANS B
+
+Q Which country is the largest producer of tea?
+A India
+B Sri Lanka
+C China
+D Japan
+ANS C
+
+Q Which animal is the national animal of India?
+A Tiger
+B Lion
+C Elephant
+D Deer
+ANS A
+
+Q What is the chemical symbol for Iron?
+A Fe
+B Ir
+C In
+D Io
+ANS A
+
+Q Which instrument measures temperature?
+A Barometer
+B Thermometer
+C Hygrometer
+D Ammeter
+ANS B
+
+Q What is the longest bone in the human body?
+A Skull
+B Vertebra
+C Femur
+D Tibia
+ANS C
+
+Q The deepest part of the Earth is:
+A Dead Sea
+B Grand Canyon
+C Mariana Trench
+D Pacific Depths
+ANS C
+
+Q Which ocean is the largest?
+A Atlantic Ocean
+B Indian Ocean
+C Pacific Ocean
+D Arctic Ocean
+ANS C
+
+Q Which scientist proposed the law of gravitation?
+A Archimedes
+B Newton
+C Galileo
+D Kepler
+ANS B
+
+Q Which is the national fruit of India?
+A Mango
+B Banana
+C Apple
+D Orange
+ANS A
+
+Q Who is known as the Iron Man of India?
+A Bhagat Singh
+B Subhash Chandra Bose
+C Sardar Vallabhbhai Patel
+D Rajendra Prasad
+ANS C
+
