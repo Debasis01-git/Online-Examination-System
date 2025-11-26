@@ -1,7 +1,7 @@
 # Online-Examination-System
 This Project Is Made By Using C Programming Language(standard ANSI C, file handling, structure, arrays, strings & character handling, timers, conditional logic, loops, cross platform support, randomization, input validation, summary report generation, admin panel result saving)
 
-It is unique because 
+It is unique because: 
                      1. I add shuffling system to shuffle the questions and option because in case if two students are sitting near each other there is a chance of cheating which will be prevented by my shuffling code.Therefore no students can cheat.
                      2. There is also a negative marking system.
                      
@@ -30,4 +30,7 @@ it show:
   <img width="627" height="363" alt="Screenshot 2025-11-24 105446" src="https://github.com/user-attachments/assets/d35ef737-3052-4f12-ac73-59f338d86362" />
 
   <img width="283" height="97" alt="Screenshot 2025-11-24 105552" src="https://github.com/user-attachments/assets/e63416b3-f581-494d-93fd-b37c66fac356" />
+
+
+  
 
