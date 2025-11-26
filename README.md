@@ -20,10 +20,12 @@ it show:
    <img width="476" height="239" alt="Screenshot 2025-11-24 094947" src="https://github.com/user-attachments/assets/8822e950-807a-4438-b92c-0b7e9e7e206b" />
 
    MCQ QUESTION :
+   
    <img width="469" height="694" alt="Screenshot 2025-11-26 105120" src="https://github.com/user-attachments/assets/2ede26d9-690d-4f28-8b85-ad5684877a30" />
 
 
    ADMIN PANEL can only be opened through admin by using his password (Admin can change all the questions and can delete the questions also) :
+   
   <img width="256" height="260" alt="Screenshot 2025-11-24 104002" src="https://github.com/user-attachments/assets/cd84fdcb-e31c-4dea-a984-43fc67d5737a" />
 
   RESULT PAGE (shows the marks you obtain and percentage you score) :
