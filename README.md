@@ -3,7 +3,7 @@ This Project Is Made By Using C Programming Language(standard ANSI C, file handl
 
 It is unique because: 
 
-                     1. I add shuffling system to shuffle the questions and option because in case if two students are sitting near each other there is a chance of cheating which will be prevented by my shuffling                                 code.Therefore no students can cheat.
+                     1. I add shuffling system to shuffle the questions and option because in case if two students are sitting near each other there is a chance of cheating which will be prevented by my shuffling code.Therefore no students can cheat.
                      
                      2. There is also a negative marking system.
                      
